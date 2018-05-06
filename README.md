@@ -1,6 +1,13 @@
 # Dawson Hackathon
 ![alt text](https://raw.githubusercontent.com/alexandre-lavoie/dawsonhack/master/Picture/Doge.jpg)
 
+# Team
+
+Our team was composed of the following people:
+* Alexandre Lavoie (Coding)
+* Tristan Viera (Building and Electronic)
+* Maria Sara Florez-Gonzalez (Cute Dog Design and Creative Ideas)
+
 # Winner
 ![alt text](https://raw.githubusercontent.com/alexandre-lavoie/dawsonhack/master/Picture/Team.jpg)
 
