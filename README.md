@@ -1,8 +1,8 @@
 # Dawson Hackathon
-[![alt text](https://raw.githubusercontent.com/alexandre-lavoie/arduino-slide/final/Picture/Doge.jpg)]
+[![alt text](https://raw.githubusercontent.com/alexandre-lavoie/dawsonhack/master/Picture/Doge.jpg)]
 
 # Winner
-[![alt text](https://raw.githubusercontent.com/alexandre-lavoie/arduino-slide/final/Picture/Team.jpg)]
+[![alt text](https://raw.githubusercontent.com/alexandre-lavoie/dawsonhack/master/Picture/Team.jpg)]
 
 Robot winning the creativity and ingenuity award!
 
@@ -25,7 +25,7 @@ The first Dawson College Hackathon was divided in two sections. The robot had to
 
 This is a basic representation of the circuit (using parts found on tinkercad)
 
-[![alt text](https://raw.githubusercontent.com/alexandre-lavoie/arduino-slide/final/Picture/Circuit.png)]
+[![alt text](https://raw.githubusercontent.com/alexandre-lavoie/dawsonhack/master/Picture/Circuit.png)]
 
 # Coding
 
